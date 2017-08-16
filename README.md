@@ -26,7 +26,7 @@ There are two files in the `models` folder.
 [project killer](https://github.com/felixgwu/img_classification_pk_pytorch/blob/master/models/densenet.py) implementations.
  - `models/densenet_efficient.py` is the new efficient implementation. (Code is still a little ugly. We're working on cleaning it up!)
 Copy either one of those files into your project!
- - `models/densenet_efficient.py` is the new efficient implementation with multi-GPU support.
+ - `models/densenet_efficient_multi_gpu.py` is the new efficient implementation with multi-GPU support.
 They work as stand-alone files.
 
 **Running the demo:**
